@@ -9,6 +9,8 @@
 - Allow highly customized ratings  
 - Ask for consent to scrape other profile posts automatically  
 - Username must match - email must match (if email works then should suffice)  
-- Choose your own cover and generate them with image AI  
+- Choose your own media cover and/or generate them with image AI  
+- Web scraper to update media list
+- Integrated AI chatbot for proofreading suggestions
 
 ══════ ⋆✦ Road Map ✦⋆ ══════
