@@ -1,7 +1,7 @@
 
 # ═══ ⋆❖ allThruit ❖⋆ ═══
 
-# ✧･ﾟ: *✧･ﾟ:*  Media By The People And For The People  *:･ﾟ✧*:･ﾟ✧
+# Media By The People And For The People
 
 ══════ ⋆✦ Road Map ✦⋆ ══════
 
