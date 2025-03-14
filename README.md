@@ -12,5 +12,6 @@
 - Choose your own media cover and/or generate them with image AI  
 - Web scraper to update media list
 - Integrated AI chatbot for proofreading suggestions
+- In app translator, try to make this a front-end solution with back-end AI processing ability
 
 ══════ ⋆✦ Road Map ✦⋆ ══════
